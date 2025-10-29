@@ -1,8 +1,19 @@
 ## Welcome
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Exemption6877&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
+### About Me
+
+- **Languages:** JavaScript (ES6+), TypeScript, Python, SQL
+- **Frontend:** React, HTML5, CSS3, Tailwind CSS
+- **Backend:** Node.js, Express, PrismaORM, PostgreSQL
+
+### Stats
+
 <img src="https://leetcard.jacoblin.cool/Exemption6877?theme=dark" />
 <img src="https://www.codewars.com/users/Exemption6877/badges/large" />
+
+### Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Exemption6877&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <!--
 **Exemption6877/Exemption6877** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
