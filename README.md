@@ -1,6 +1,7 @@
 ## Welcome
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Exemption6877&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+![](https://leetcard.jacoblin.cool/Exemption6877?theme=DARK)
 <img src="https://www.codewars.com/users/Exemption6877/badges/large" />
 <!--
 **Exemption6877/Exemption6877** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
